@@ -1,12 +1,5 @@
 {
-  "open_positions": {
-    "3mPaWq3s4MoF7mXLHPo3N9ueRjG4oRQVPqnHTJLkpump": {
-      "symbol": "NVIDIH",
-      "entry_price": 0.0005862,
-      "entry_time": 1794191732.433227,
-      "position_usd": 20.0
-    }
-  },
+  "open_positions": {},
   "seen_tokens": [
     "nAuyx14mHoXjzdBipvNMJxNC31jjYdPqMGaNfhHpump",
     "8uWftzVoVBqyPJj6Xq9kRUtnz54W5GP4pd4smwZHpump",
@@ -2407,7 +2400,25 @@
     "9ti7bRkF57yANdgdKr6qfFub5C6VG6StSQpUVhkEpump": 1794213332.4331884,
     "H2ZViwA4dwxHd3bctARCUDUqTwTqfVrbmKQMrwBmpump": 1794213332.4332042,
     "3JPqzDf4wqF8wkVR3yErsQJ9ma1wNFBC8zMR7ctCgVzi": 1794213332.4332151,
-    "3mPaWq3s4MoF7mXLHPo3N9ueRjG4oRQVPqnHTJLkpump": 1794213332.4332318
+    "3mPaWq3s4MoF7mXLHPo3N9ueRjG4oRQVPqnHTJLkpump": 1794213332.4332318,
+    "EQrggxHJZFw426p5eRD6Rkia6fWESUat1aT2CUAfLoat": 1794241074.3565865,
+    "worLdk8XAAFzy3V7bnwFSkgamWLaAF4rYwwnKZitBRJ": 1794241074.3566086,
+    "Ewhy4f2tPLfHuaBdvsAK1DWB7SbD2aGEDuhz7nc7pump": 1794241074.3566191,
+    "8ctbRatrLwS6m35mNajbDimiaM4x7bmfGTprBmZnpump": 1794241074.3566263,
+    "uvnuFUd7JB8turrwHFi7Dvki8R4epuRDDRE1cQ5pump": 1794241074.3566315,
+    "27iaWc5qjQAubC7ENwqD2zYGmm1UWJyMpXNz3DFQpump": 1794241074.3566372,
+    "48AZ5AvCZyHaRbobc3xNesGwf59vNhF83CvFLSmdpump": 1794241074.3566418,
+    "AiGRRtutEk8i4S1soemL9vHTizMvnBySzLUyiSh8pump": 1794241074.3566465,
+    "BwNabNnAJbxbyio38u2CEB3ScKE4F71Rf3mf6pNJpump": 1794241074.356651,
+    "2h2WBpp4C8eUhfuguef3UckBiuSdQjkzyQ6Y2QUrJaPJ": 1794241074.3566556,
+    "BBJKAvRGy3e7kuZgkvrnwLtpLPNUmzeRb6d5QgNbpump": 1794241074.3566601,
+    "5uZgW3nJZ1KYTXd9S9xwVvENhCi4CEvirkHznYHMpump": 1794241074.3566642,
+    "DRQq4oSMeNENScmriRvyGVnm368jr7NJhrRdUZLApump": 1794241074.3566697,
+    "6StcoPU2CCEvxefhRYgYT9Zw1FaiZ8y7rVputWJBpump": 1794241074.35668,
+    "6GnUH7g2nDJeKieaMdWqb2iaaVptJ3k8E5VpWA9pump": 1794241074.3566866,
+    "HQu6XAj4FJMkzTDwekqUGyZrYghtno4Rj1HuThfDpump": 1794241074.3566937,
+    "5XGHbdLQQpr37aWxEqfpD3GL9VMjSBYRoYgEd6VVpump": 1794241074.356703,
+    "Big1krPP8QUkgg5fsfEZQmeuwAViNajzAxNhNYvXaSS1": 1794241074.3567097
   },
   "daily_realized_net_usd": 0.0
 }
