@@ -1,12 +1,5 @@
 {
-  "open_positions": {
-    "HqZZhbXWm17vnY29uj4cgczNUWo9o8VLUWsN4RH8pump": {
-      "symbol": "MAYA",
-      "entry_price": 0.0006033,
-      "entry_time": 1794257450.3490422,
-      "position_usd": 20.0
-    }
-  },
+  "open_positions": {},
   "seen_tokens": [
     "nAuyx14mHoXjzdBipvNMJxNC31jjYdPqMGaNfhHpump",
     "8uWftzVoVBqyPJj6Xq9kRUtnz54W5GP4pd4smwZHpump",
@@ -66,7 +59,7 @@
     "HqZZhbXWm17vnY29uj4cgczNUWo9o8VLUWsN4RH8pump"
   ],
   "daily_realized_gross_usd": 0.0,
-  "daily_key": "2026-11-09",
+  "daily_key": "2026-11-10",
   "checked_tokens": {
     "BZdMHeSGP1jc4PhJaV4zrLkFe5jKuthTxKPJ3ZMkpump": 1792600779.475962,
     "nAuyx14mHoXjzdBipvNMJxNC31jjYdPqMGaNfhHpump": 1792600779.7706702,
@@ -2448,7 +2441,25 @@
     "GLvwL7Ktn7YdTjhfGJLxJGWGkEXYt91JgrBGU96oLBmg": 1794279050.3525825,
     "59tKHU17fe31NHw7AabcK7s6Jhb7DvNNxEtigu8upump": 1794279050.3525894,
     "5Mgk87F8EPnbTw92C2vNepjGDKEy8HK3tpzeiGXipump": 1794279050.3525965,
-    "GhgGZiqphHoFDagvsvggu6AcR3G9mR9xLmYcpjzbh8qf": 1794279050.352603
+    "GhgGZiqphHoFDagvsvggu6AcR3G9mR9xLmYcpjzbh8qf": 1794279050.352603,
+    "7KHPUn4Cg7YMjsfHHx88BJNE2zYmkykejhTXLjHHpump": 1794301156.057838,
+    "BCG1ksWvKySmgWEgy8BbYxqngMNYLH2JNrTcBVm5AESY": 1794301156.05785,
+    "6J2i2Nf7RcdLB2GzRnsV31ZfMQrcXVTSCh8yoPPhpump": 1794301156.0578568,
+    "B9FgqHbtccsgcL6YPfUhNd81qveNtrTbsfLvcjxtpump": 1794301156.0578618,
+    "65FCxrmv376UzTyfesZJWkBM1tCDohN5i3xkWtkwpump": 1794301156.0578666,
+    "3jXB2MhzxRwwbqadrVYcbiEPy6Vqb5UMXhHYYA5uBAGS": 1794301156.057871,
+    "BTPKWGUnfVUeP5xH14o23C9VvL2AeK2BNYa8JJDXpump": 1794301156.0578754,
+    "C783y9Z5AfcnJsnGTBheerFLwiC1A4kBHWzf3pUfLoat": 1794301156.0578787,
+    "A6CK4PukTpJdnZeTv8PuUT9LLnTnc2AGyuF8PE4cpump": 1794301156.0578828,
+    "6ZNpznjHug8EkcmNqtyfEkeax5Ma4Za6NqfmBFBYpump": 1794301156.0578897,
+    "B23ELE1bHv2cjSFy1UtatNBJfUHdvAtFLq6d4SPtpump": 1794301156.0578942,
+    "6E8hG4V3aHjgTXLR2qrXkQFri5KFZXfoxCrgjmx2pump": 1794301156.0579004,
+    "CQqUAe2xWohuhDKAHTvdXrZeE3ZzJ73ZnzgFKmxhpump": 1794301156.0579064,
+    "HJqfjaE4GopFCyWJj8igJJehjQcPjTHsM34aQXn4pump": 1794301156.0579133,
+    "GqJT1Wt65iPZDinwA9r3T7tUrn72Vv412vnUJsCrAtCH": 1794301156.0579188,
+    "2ZLU8yV2mgG9M3PFNDskTeJRcfWYFQ86Byhmk3Jppump": 1794301156.057926,
+    "SuiKhqAXdSXmxtEyGMrysWs6Px9mLmFDi3fKcompump": 1794301156.0579317,
+    "mFxLSvw9FixnujaB8HsTdeGeorCMMwX1VCM3dYbgamp": 1794301156.0579386
   },
   "daily_realized_net_usd": 0.0
 }
