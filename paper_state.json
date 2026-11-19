@@ -1,5 +1,12 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "CV6DiAYvr9oGUrsH4qY565srzL5RT9BYj8np7qD6pump": {
+      "symbol": "AI",
+      "entry_price": 7.152e-05,
+      "entry_time": 1795132293.7574728,
+      "position_usd": 20.0
+    }
+  },
   "seen_tokens": [
     "nAuyx14mHoXjzdBipvNMJxNC31jjYdPqMGaNfhHpump",
     "8uWftzVoVBqyPJj6Xq9kRUtnz54W5GP4pd4smwZHpump",
@@ -63,7 +70,8 @@
     "4HwfkLiQtJYGUCb6Na9KVy6c8ScHjaJmgRXYpbghpump",
     "85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump",
     "7jGdREhmTaGj6EVkrhmiadSSiNSvE5w6qfGccud5pump",
-    "9UvLfZuL4p7P2MPJ7LosboQnhjeukX2GnC78NVbmpump"
+    "9UvLfZuL4p7P2MPJ7LosboQnhjeukX2GnC78NVbmpump",
+    "CV6DiAYvr9oGUrsH4qY565srzL5RT9BYj8np7qD6pump"
   ],
   "daily_realized_gross_usd": 0.0,
   "daily_key": "2026-11-19",
@@ -3317,7 +3325,33 @@
     "pwtKLrLyRZy78eM2mR74xxe7mzREH1MxGcbvZWApump": 1795131696.2120385,
     "6mDb7qJvBqHUxiTACf6Z9SeRsaH2ih4Hk5RpcptBxjam": 1795131696.2120492,
     "FtSWWxVmKNXz8ksJxzJJ7BdDWXbQb3vC94J99oyypump": 1795131696.2120597,
-    "BmGMo3SDXw1y2L4fFMY8bsxonWNZ5MitUzuAkV3jmor": 1795131696.2120705
+    "BmGMo3SDXw1y2L4fFMY8bsxonWNZ5MitUzuAkV3jmor": 1795131696.2120705,
+    "JA1QWKi667PhbJoqUWB1GkQHK4h51CRsFS2UEyT7pump": 1795153893.7574382,
+    "F6tKmax3uQA4MMqzcE2HYEyu379QjCvVSPm9woyspump": 1795153893.757456,
+    "6MLXACPntZ74yoYErw5dBLeqPZu9X3dtEP5EPNQbpump": 1795153893.757463,
+    "8SacNb6sgiAcscRe4m915B6nL9XX55dk8FS7L532pump": 1795153893.7574685,
+    "CV6DiAYvr9oGUrsH4qY565srzL5RT9BYj8np7qD6pump": 1795153893.7574759,
+    "f9GX5WJCZHmRBTrFiwb9GbW828Ms3H2xWaD7N73pump": 1795153893.7611141,
+    "AJsDVx4C7Y8Wehdp7ZnqAXAi3PZVQ6htxCm8gGPXpump": 1795153893.7611198,
+    "8puatratUhskN6S36FZPGB4DrQfXMccKYnkWEqBnpump": 1795153893.7611241,
+    "GNpcRrFN4cgo4crqhM7mp8HXZMLUVJQgypXuRgcbpump": 1795153893.7611284,
+    "4s38cgZJN4J39S2BQwCkcsJJ9ZGeJSjw8vK9wVtupump": 1795153893.7611318,
+    "5dHcXNaRUr4xiQuv36bRsvQKXjkSxGvuEW4C9Sd5pump": 1795153893.7611353,
+    "7m2PBd3AxBaNC5q49Gy5Di6qf5mWofNtj491i9iFpump": 1795153893.7611423,
+    "HEwrvBGFYRpT23xrxfXHgNeNVzogYwSXYxjfAQ4z9GTC": 1795153893.7611563,
+    "DgCwnR8jBu6zVQndphRZcTbk2ciYNCZuoEKDPVnDpump": 1795153893.7611618,
+    "591ZQwJSasS5eKYXW1784Jf8eesNm3xarjM1PvLdpump": 1795153893.761166,
+    "CwnbD9FpaFSNou634knczXVCRUjTqmzwCrs3AiQvpump": 1795153893.7611701,
+    "828Rg1VfMcfcTKJRxfr83nnrTWzmVjrDS9Rpr1BBeA7U": 1795153893.7611735,
+    "71dDsEfohSRUsVPPB1rsKRspoXH7nt1g8EgMhSxXpump": 1795153893.761179,
+    "3Cc9wjDGyaqwdipFW1Ldydou8X5GJHfftHdyFrERpump": 1795153893.7611842,
+    "GJVKc1AZi7MMGPuht4kwLnZX9cJwLRBUXjEGUF6twpfx": 1795153893.761191,
+    "HepGju9tSkDxC6kJR6am6aAei386XAQRjNRbXxdCpump": 1795153893.7611957,
+    "9r5KAsg1WZNDL3ePH6HrYgd9MB4H133Np3JriRfuiyh1": 1795153893.7612007,
+    "C418akYyeeqphD6uPwjyq7U8j1fGXQT4sYo1kQiYpump": 1795153893.7612054,
+    "81ZjCbykvWdPv4ciE2qyYmr4ryi9FrnySgr2bZR8pump": 1795153893.7612107,
+    "HpYT5BHv4nb8ZEXoc7YG5zLSqwtFx9nRtR3puAZ9pump": 1795153893.7612152,
+    "BZtvnd2DGCXYQcncr152zwyiEpzAHmEm3LbmUDHapump": 1795153893.7612233
   },
   "daily_realized_net_usd": 0.0
 }
