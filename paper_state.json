@@ -1,5 +1,12 @@
 {
-  "open_positions": {},
+  "open_positions": {
+    "GXpQZkap4ExgQTTX4SXfETV7nt1YZKEZSakqos3hpump": {
+      "symbol": "TWORBIT",
+      "entry_price": 0.0004823,
+      "entry_time": 1795790449.8570254,
+      "position_usd": 20.0
+    }
+  },
   "seen_tokens": [
     "nAuyx14mHoXjzdBipvNMJxNC31jjYdPqMGaNfhHpump",
     "8uWftzVoVBqyPJj6Xq9kRUtnz54W5GP4pd4smwZHpump",
@@ -66,7 +73,8 @@
     "9UvLfZuL4p7P2MPJ7LosboQnhjeukX2GnC78NVbmpump",
     "CV6DiAYvr9oGUrsH4qY565srzL5RT9BYj8np7qD6pump",
     "7R4MP6VX7n3RMNhL9zsk5Zu5ibZvwq8npUYnRq7epump",
-    "61yuZf1JyTKqoCfS784SusFGVekA6YUsGTfDg3o6pump"
+    "61yuZf1JyTKqoCfS784SusFGVekA6YUsGTfDg3o6pump",
+    "GXpQZkap4ExgQTTX4SXfETV7nt1YZKEZSakqos3hpump"
   ],
   "daily_realized_gross_usd": 0.0,
   "daily_key": "2026-11-27",
@@ -3915,7 +3923,20 @@
     "G2XqmSc8vJpLLwaLVXUeNkxsrhVT8vQ3Pje8MqeDpump": 1795776933.3708842,
     "RecRFwNXRbTuDwDnvokNv5h4hLQubaDZMJwKfshpump": 1795776933.3709261,
     "D3PSUeS11AQNgpfX8GRFdXfVzZwmNanPX9MdGKyHpump": 1795776933.3709528,
-    "FDJfGGPSw9jJ8JRnQW62GLGekjUHKDxdeA9kh27Tpump": 1795776933.370977
+    "FDJfGGPSw9jJ8JRnQW62GLGekjUHKDxdeA9kh27Tpump": 1795776933.370977,
+    "TELLbUhH3mroXH5xtgGorT7eeFaVfzAiJkwQTbMvuWc": 1795812049.8569534,
+    "DNgboHpauGZ5KbSptWSkwQyQLSDCQKdoU3qsk9FTpump": 1795812049.8569863,
+    "CGEYuiXo5BHZRr9QNmdGz4DqXJ7UvWCP5jRCuFNgpump": 1795812049.8569965,
+    "FjfhXHU7f4ZY1u8G2MUvYJZCoNBEXarAK8mJhHx5pump": 1795812049.8570056,
+    "3MeLekwiKucXKnn7Y51kddFKT9GdNCffqtcMQES2perp": 1795812049.8570123,
+    "F5LxbqJxAMrvfxLbqPckErmqNyiPzDJMUXnX8vrhpump": 1795812049.8570192,
+    "GXpQZkap4ExgQTTX4SXfETV7nt1YZKEZSakqos3hpump": 1795812049.8570292,
+    "DwQgXTe98WQHkM6n7htVLYdk2pBpE5amPF1cBNbE3yhh": 1795812049.863743,
+    "AqmdZvNtiDbMq5SifeZGNc8ydDidp1sLr6AtbqqCs5S2": 1795812049.8637526,
+    "7Y2CVbnqZRvR5RUvEJ9RQ73fZEfv7ybNcysytAepump": 1795812049.863766,
+    "2YAfPhCrGSW82Ra33sWgurXt4dQ29SwXusvUXdJGpump": 1795812049.8637748,
+    "gReut5zWWqXMYz5vSExcuDT56U1u1MTXsC7u3oqpump": 1795812049.8637817,
+    "Fyhpv64QLTYaFeQ9yy6YxxGY53edRPHCq4RRkTBapump": 1795812049.8637898
   },
   "daily_realized_net_usd": 0.0
 }
